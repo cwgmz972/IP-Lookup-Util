@@ -24,7 +24,7 @@ For more information about IP addresses, please refer to the [IP Address Wikiped
 - `atexit`: Used in this script to save the log on exit if conditions are met. [GitHub Link](https://github.com/python/cpython/blob/main/Modules%2Fatexitmodule.c)
 
 ### Usage
-![Screenshot of application](README_Images/GUI_Image.png)
+![Screenshot of application](GUI_Image.png)
 1. Select the IP type (IPv4 or IPv6).
 2. Enter the IP address or website URL.
 3. Choose the desired format for the results.
